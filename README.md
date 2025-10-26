@@ -49,8 +49,8 @@ The project combined:
 ---
 
 ### 💬 Let’s Connect
-- 💼 **LinkedIn:** [linkedin.com/in/usaidali](www.linkedin.com/in/usaidalilazzal)  
-- 🧠 **GitHub Projects:** (https://github.com/UsaidAliLazzal?tab=repositories)  
+- 💼 **LinkedIn:** www.linkedin.com/in/usaidalilazzal
+- 🧠 **GitHub Projects:** https://github.com/UsaidAliLazzal?tab=repositories
 - 📧 **Email:** alilazzal_95@outlook.com
 
 ---
